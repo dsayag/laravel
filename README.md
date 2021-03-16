@@ -16,3 +16,6 @@
     - genre (string)
     - synopsis (string)
 - Trouver comment 'envoyer ma migration dans ma bdd.
+
+### Exo 3 : les seeders
+- Mettre en place des seeders pour les livres.
