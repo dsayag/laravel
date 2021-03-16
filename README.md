@@ -1,5 +1,8 @@
 # Laravel
 
+## Récuperer le projet
+// Todo
+
 ## Exo
 ### Exo 1
 - Styliser notre page ```home```, et y ajouter un menu avec au moins deux liens (home, liste).
@@ -19,3 +22,7 @@
 
 ### Exo 3 : les seeders
 - Mettre en place des seeders pour les livres.
+
+### Exo 4 : les controllers
+- Faire en sorte que l'affichage de ma vue ```list``` passe par un controlleur.
+- Ce controlleur s'appellera ```NavController```.
